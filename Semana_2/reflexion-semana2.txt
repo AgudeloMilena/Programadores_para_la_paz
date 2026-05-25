@@ -1,0 +1,8 @@
+Para un desarrollador, dominar la terminal es crucial porque permite automatizar tareas repetitivas, gestionar proyectos complejos con rapidez y acceder a herramientas avanzadas de control de versiones (como Git) que no están disponibles en las interfaces gráficas. El uso de la terminal es fundamental para cualquier desarrollador porque permite interactuar directamente con el sistema operativo de manera rápida y eficiente.
+A través de comandos, es posible crear, modificar y organizar archivos sin depender de interfaces gráficas.
+Esto mejora la productividad y reduce el tiempo en tareas repetitivas dentro de un proyecto.
+Además, la terminal es esencial para el trabajo con herramientas como Git y entornos de desarrollo.
+Su dominio facilita la automatización de procesos y la gestión de proyectos de software.
+También ayuda a comprender mejor la estructura interna de los sistemas de archivos.
+En el desarrollo profesional, muchas tareas avanzadas se realizan únicamente desde la terminal.
+Por ello, aprender a usarla correctamente es una habilidad clave en el campo de la programación.
