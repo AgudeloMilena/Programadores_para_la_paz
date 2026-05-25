@@ -1,0 +1,8 @@
+El uso de Git en los proyectos de software es fundamental porque permite llevar un control detallado de todos los cambios realizados en el código.
+Esto facilita la organización del trabajo y evita la pérdida de información importante durante el desarrollo.
+Además, Git permite trabajar en equipo de manera más eficiente, ya que cada integrante puede colaborar sin sobrescribir el trabajo de otros.
+Otra ventaja es la posibilidad de regresar a versiones anteriores del proyecto en caso de errores.
+Esto aumenta la seguridad y estabilidad del desarrollo.
+También mejora la trazabilidad, ya que se puede identificar quién realizó cada cambio y cuándo.
+En proyectos grandes, este control es esencial para mantener el orden.
+Por estas razones, Git se ha convertido en una herramienta estándar en el desarrollo de software moderno.
