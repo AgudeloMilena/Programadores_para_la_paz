@@ -1,0 +1,15 @@
+Repositorio:
+Un repositorio en Git es un espacio donde se almacena un proyecto junto con todo su historial de cambios. Permite llevar un registro de 
+cada modificación realizada en los archivos. Existen dos tipos de repositorio, local y remoto. Un repositorio local, reside directamente en tu computadora. 
+Allí guardas los cambios, experimentas con ramas (branches) y registras el historial de manera rápida y sin necesidad de internet.
+Por el contrario, un repositorio remoto aloja tu proyecto en servidores de internet. Funciona como una copia de seguridad y permite a otros desarrolladores descargar el código, 
+proponer cambios y sincronizar el trabajo en equipo.
+
+Commit:
+El comando git commit es una captura o registro de los cambios realizados en el proyecto en un momento específico. Incluye un mensaje descriptivo 
+que ayuda a identificar qué se modificó. Las capturas confirmadas pueden considerarse como versiones "seguras" de un proyecto, por lo que Git no las 
+cambiará nunca a no ser que se lo pidas expresamente.
+
+Push:
+El comando git push se utiliza para subir tus confirmaciones (commits) locales desde tu computadora a un repositorio remoto (como GitHub o GitLab). 
+Este comando sincroniza tu trabajo en la nube para que otros colaboradores puedan verlo o para guardar una copia de seguridad.
