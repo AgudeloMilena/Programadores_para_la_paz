@@ -1,0 +1,16 @@
+Comando: uname -a
+Muestra información detallada del sistema operativo, incluyendo el nombre del sistema, 
+la versión del kernel, la arquitectura del procesador y otros datos técnicos.
+
+En mi caso: Linux snoopy-Inspiron-3493 6.17.0-35-generic #35~24.04.1-Ubuntu SMP 
+PREEMPT_DYNAMIC Tue May 26 19:30:42 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Comando: whoami
+Muestra el nombre del usuario que está utilizando la sesión actual del sistema.
+En mi caso: snoopy
+
+Utilidad:
+Conocer la información del sistema es importante para administrar un servidor porque 
+permite identificar el sistema operativo y sus características, verificar con qué usuario 
+se están ejecutando las tareas y facilitar la instalación, configuración, mantenimiento y solución de problemas del servidor.
