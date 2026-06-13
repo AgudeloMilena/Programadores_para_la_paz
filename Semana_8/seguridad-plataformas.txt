@@ -1,0 +1,5 @@
+1. Implementar autenticación de dos factores para los usuarios.
+2. Mantener el software y los sistemas actualizados.
+3. Realizar copias de seguridad periódicas de la información.
+4. Monitorear actividades sospechosas y generar alertas de seguridad.
+5. Capacitar a los usuarios sobre riesgos de phishing e ingeniería social.
