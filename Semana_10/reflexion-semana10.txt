@@ -1,0 +1,9 @@
+Las metodologías ágiles permiten organizar el trabajo de forma ordenada y establecer prioridades 
+según las necesidades de la comunidad. El uso de un backlog facilita identificar las tareas más 
+importantes y planificar el trabajo por etapas. Las iteraciones ayudan a entregar resultados de 
+manera continua y a realizar mejoras con base en la retroalimentación recibida. La automatización 
+reduce el tiempo dedicado a tareas repetitivas y disminuye la posibilidad de errores. Herramientas 
+como n8n permiten crear flujos de trabajo sencillos sin desarrollar grandes cantidades de código. 
+Telegram facilita la comunicación rápida entre los integrantes del equipo y el envío de notificaciones 
+oportunas. Todo esto mejora la coordinación, el seguimiento de los reportes y la participación ciudadana, 
+siempre respetando la privacidad y evitando compartir información sensible.
